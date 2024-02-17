@@ -36,7 +36,7 @@ Para manutenção/desenvolver:
 
 Para teste unitário
 ```
--Primeiro executar o projeto WebAPI(o mesmo deve etar rodando) e depois executar o projeto TestApiGestaoProdutos
+-Primeiro executar o projeto WebAPI(o mesmo deve estar rodando) e depois executar o projeto TestApiGestaoProdutos
 ```
 
 ### ⌨️ Técnologias Implementadas
